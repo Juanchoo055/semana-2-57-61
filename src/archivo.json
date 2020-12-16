@@ -1,0 +1,39 @@
+{
+    "team":[
+    {
+        "codigo": 1088283042,
+        "nombre": "Juan Giraldo",
+        "descripcion": "Administrador de empresas",
+        "rol": "Desarrollador backend",
+        "image" : "https://scontent-bog1-1.xx.fbcdn.net/v/t1.0-9/15337498_10154687746182177_904049445211071438_n.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_ohc=rZjTq_Y4G6sAX_tA1pY&_nc_ht=scontent-bog1-1.xx&oh=1edf09a119e7b919617270673cd545a9&oe=5FFD26F0"
+    },
+    {
+        "codigo": 1030620996,
+        "nombre": "Alejandro Sánchez Betancourt",
+        "descripcion": "Ingeniero Telecomunicaciones",
+        "rol": "Desarrollador backend",
+        "image": "images/alejo.jpeg"
+    },
+    {
+        "codigo": 1057595664,
+        "nombre": "Leidy Carolina Gutiérrez Cáceres",
+        "descripcion": "Ingeniero electrónico",
+        "rol": "Desarrollador backend",
+        "image": "images/caro.jpeg"
+        },
+        {
+        "codigo": 1112226772,
+        "nombre": "Kevin Stiven Correa Rodriguez",
+        "descripcion": "técnico en sistemas",
+        "rol": "Desarrollador backend",
+        "image": "images/default.png"
+        },
+        {
+        "codigo": 123456789,
+        "nombre": "none",
+        "descripcion": "none",
+        "rol": "Desarrollador backend",
+        "image": "images/default.png"
+        }
+    ]
+}

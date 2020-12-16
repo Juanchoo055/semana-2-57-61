@@ -19,7 +19,7 @@
     
                 </div>
                 <div class="d-flex container-fluid justify-content-end pb-2 mt-n2">
-                    <a :href="newss.url"  target="_blank" class="btn btn-outline-info">Info</a>
+                    <a :href="newss.url"  target="_blank" class="btn btn-outline-info">Ver más</a>
                 </div>
             </div>
     
