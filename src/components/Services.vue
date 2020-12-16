@@ -53,5 +53,6 @@ export default {
 <style scoped>
 .card{
     align-items: center;
+    background: darkgray;
 }
 </style>

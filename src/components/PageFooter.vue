@@ -15,7 +15,7 @@
                 <br>
                 <h5 class="text-uppercase font-weight-bold">Repositorio</h5>
                 <br>
-                <a href="https://github.com/Juanchoo055/semana-2-57-61.git"><button type="button" class="btn btn-dark">gitHub</button></a>
+                <a href="https://github.com/Juanchoo055/semana-2-57-61.git" target="_blank" ><button type="button" class="btn btn-dark">gitHub</button></a>
                 
 
             </div>

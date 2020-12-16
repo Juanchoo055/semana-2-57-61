@@ -75,7 +75,7 @@ data(){
       image: "https://scontent-bog1-1.xx.fbcdn.net/v/t1.0-9/84142908_115876526634060_9062243976513323008_o.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=xnBUxw_kAnAAX8MKVOI&_nc_oc=AQliSwTScoRDyy_KfTBuO3GjuhJvRiykDRLF0FnOmEF7GzhaJEdAJ3JBnrXfUzVfgRQ&_nc_ht=scontent-bog1-1.xx&oh=fabe285c5b64f8f10f867062f37a5039&oe=5FFC02A2"
       },
       {
-      codigo: 123456789,
+      codigo: 1049647135,
       nombre: 'Rosemberg Julian Gutierrez',
       descripcion: 'Programador',
       rol: 'Maqueteador',
