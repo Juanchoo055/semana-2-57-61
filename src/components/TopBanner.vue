@@ -15,8 +15,7 @@
                 <img class="d-block w-100" src="./images/banner.png" alt="First slide" opacity= '0.5;' >
                 <rect width="100%" height="100%" fill="#555"></rect>
                 <div class="carousel-caption d-none d-md-block">
-                <p class="pb">El mundo deporte a tu alcance</p>
-                    
+                <h5 class="pb">El mundo del deporte a tu alcance</h5>
                 </div>
             </div>
             <div class="carousel-item">
@@ -56,6 +55,8 @@
 <script>
 
 import TopMenu from './TopMenu.vue'
+    
+    
     export default {
         name: "TopBanner",
         components: { 
@@ -72,9 +73,9 @@ h5 {
 
 .pb {
     color:#ffffff;
-    font-size: 26px;
-    font-weight: bold;
+
 }
+
 
 
 </style>
