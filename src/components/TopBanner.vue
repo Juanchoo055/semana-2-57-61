@@ -1,7 +1,8 @@
 <template>
 <div>
 
-<top-menu></top-menu>
+    <top-menu></top-menu>
+
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -64,6 +65,17 @@ import TopMenu from './TopMenu.vue'
 </script>
 
 <style scoped>
+
+h5 {
+    color:#ffffff ;
+}
+
+.pb {
+    color:#ffffff;
+    font-size: 26px;
+    font-weight: bold;
+}
+
 
 </style>
 
