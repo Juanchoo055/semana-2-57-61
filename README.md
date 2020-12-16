@@ -1,3 +1,13 @@
+## Rosemberg Julian Gutierrez: Encargado de la sección de servicios y del footer, realizando la conexón a los diferentes enlaces tanto del repositorio como de las redes sociales de cada uno de los integrantes del grupo.
+
+## Kevin Stiven Correa Rodríguez: Encargado de la edición del encabezado agregándole estilo al banner personalizando el carrusel como también la barra del menú, donde cada ítem tiene su respectivo direccionamiento a su sección.
+
+## Alejandro Sánchez Betancourt: Encargado del diseño del archivo JSON para la implementación en las TeamCard y diseño de las mismas, su visualización de forma ordenada dentro de la pagina web. 
+
+
+## Leidy Carolina Gutiérrez Cáceres: Encargada tanto de la llamada como uso del archivo JSON de la API NEWS https://gnews.io/docs/v4#introduction y visuaización de las 4 noticias.
+
+
 # pryecto_sprint2
 
 ## Project setup
