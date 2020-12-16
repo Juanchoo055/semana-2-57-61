@@ -7,6 +7,8 @@
 
 ## Leidy Carolina Gutiérrez Cáceres: Encargada tanto de la llamada como uso del archivo JSON de la API NEWS https://gnews.io/docs/v4#introduction y visuaización de las 4 noticias.
 
+## Juan David Giraldo se encarga de crear el proyecto en VUECLI y migrar todo el codigo del esqueleto que se tenia del boostrap, para posteriormente migrar el codigo escrito por los compañeros a los distintos componentes dentro del VUE.
+
 
 # pryecto_sprint2
 
